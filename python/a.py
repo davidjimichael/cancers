@@ -1,0 +1,3 @@
+import cancers
+
+cancers.solve()
