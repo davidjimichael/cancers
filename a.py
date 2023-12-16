@@ -1,3 +1,9 @@
-import cancers
+from reading.linking import linking
+import os
 
-cancers.solve()
+def solve_cancers():
+    linking('G:/cancers/storing/')
+    print('solving...')
+
+
+solve_cancers()
