@@ -6,3 +6,4 @@
 
 - please don't use this for anything but research.
 - my lawyer is awesome and cool, and also my aunt who I love.
+- i don't understand legal things so check the licenses folder.
